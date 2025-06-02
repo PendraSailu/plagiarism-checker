@@ -1,6 +1,6 @@
 # Plagiarism Checker using Python and NLP
 * A nightmare for any writer is the fear that their work might unknowingly fall into the trap of plagiarism. This project aims to tackle that issue by providing a reliable,
-cost-free plagiarism detection tool built with Python, Natural Language Processing (NLP), and a Search API.
+  cost-free plagiarism detection tool built with Python, Natural Language Processing (NLP), and a Search API.
 # Project Overview
 * This Python-based **Plagiarism Checker** scans user-provided text and searches for overlaps across publicly available online content. 
 * It uses NLP techniques to analyze the semantic meaning of content and a search API to query the web for similar or identical passages.
